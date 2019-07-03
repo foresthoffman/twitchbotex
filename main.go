@@ -8,7 +8,7 @@
 package main
 
 import (
-	"github.com/foresthoffman/twitchbot"
+	"github.com/foresthoffman/bot"
 	"time"
 )
 
@@ -16,7 +16,7 @@ func main() {
 
 	// Replace the channel name, bot name, and the path to the private directory with your respective
 	// values.
-	myBot := twitchbot.BasicBot{
+	myBot := bot.BasicBot{
 		Channel:     "twitch",
 		MsgRate:     time.Duration(20/30) * time.Millisecond,
 		Name:        "TwitchBot",
