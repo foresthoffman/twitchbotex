@@ -1,6 +1,6 @@
 ## TwitchBotEx
 
-This is an example project that utilizes the [`bot`](https://github.com/foresthoffman/bot) package. You can read my [walkthrough of `bot`](https://foresthoffman.com/building-a-twitch-tv-chat-bot-with-go-part-1/) and/or grab it with `go get`...
+This is an example project that utilizes the [`bot`](https://github.com/foresthoffman/bot) package. You can read my [walkthrough of `bot`](https://dev.to/foresthoffman/building-a-twitchtv-chat-bot-with-go---part-1-i3k) and/or grab it with `go get`...
 
 ```bash
 $ go get github.com/foresthoffman/twitchbotex
